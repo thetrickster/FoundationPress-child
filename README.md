@@ -1,6 +1,6 @@
 # FoundationPress Child Theme
 
-This is a Wordpress child theme for the parent theme FoundationPress by `` at .  This theme follows the same conventions and allows you to use Grunt and Bower to control and update dependencies and watch for your SASS changes. 
+This is a Wordpress child theme for the parent theme [FoundationPress](https://github.com/olefredrik/FoundationPress) by `olfredrik`.  This theme follows the same conventions and allows you to use Grunt and Bower to control and update dependencies and watch for your SASS changes. 
 
 ## Quickstart
 
