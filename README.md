@@ -2,29 +2,6 @@
 
 This is a Wordpress child theme for the parent theme [FoundationPress](https://github.com/olefredrik/FoundationPress) by `olfredrik`.  This theme follows the same conventions and allows you to use Grunt and Bower to control and update dependencies and watch for your SASS changes. 
 
-## Quickstart
-
-```bash
-cd my-wordpress-folder/wp-content/themes/
-git clone git@github.com:thetrickster/FoundationPress-child.git
-mv FoundationPress your-theme-name
-cd your-theme-name
-npm install && bower install
-```
-
-While you're working on your project, run:
-
-`grunt`
-
-- - -
-
-FoundationPress README:
-
-# FoundationPress
-
-This is a WordPress starter theme based on Foundation 5 by Zurb. 
-I made it for myself, as a solid starter theme for new and exciting WordPress projects.
-
 The purpose of the Foundation Press is that it should only contain the most essential, with no need to peel away unnecessary features. If you're looking for a starter theme with built-in shortcode plugins, fancypancy portfolio templates or whatnot, I'm afraid you have to look elsewhere. 
 
 ## Requirements
@@ -39,7 +16,7 @@ The purpose of the Foundation Press is that it should only contain the most esse
 
 ```bash
 cd my-wordpress-folder/wp-content/themes/
-git clone git@github.com:olefredrik/FoundationPress.git
+git clone git@github.com:thetrickster/FoundationPress-child.git
 mv FoundationPress your-theme-name
 cd your-theme-name
 npm install && bower install
@@ -76,6 +53,10 @@ Check for Foundation Updates? Run:
 
 * [WordPress Codex](http://codex.wordpress.org/)
 
-## Demo
+## FoundationPress Parent Theme
+
+* [FoundationPress](https://github.com/olefredrik/FoundationPress) 
+
+## Demo of FoundationPress Parent Theme
 
 * [Clean FoundationPress install](http://foundationpress.olefredrik.com/)
