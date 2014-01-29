@@ -24,7 +24,7 @@ npm install && bower install
 
 While you're working on your project, run:
 
-`grunt`
+`grunt` or `grunt watch` for livereload in browser.
 
 And you're set!
 
@@ -36,7 +36,7 @@ Check for Foundation Updates? Run:
 
   * `style.css`: Do not worry about this file. (For some reason) it's required by WordPress. All styling are handled in the Sass files described below
   * `scss/_settings.scss`: Original Foundation base settings are found here
-  * `scss/custom.scss`: Add your custom styling here
+  * `scss/_custom.scss`: Add your custom styling here
   * `css/app.css`: All Sass files are minified and compiled to this file
 
 ## Script Folder Strucutre
