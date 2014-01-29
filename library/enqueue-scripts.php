@@ -1,5 +1,4 @@
 <?php
-<?php
 
 function FoundationPress_scripts() {
 
@@ -15,4 +14,4 @@ function FoundationPress_scripts() {
 
 add_action( 'wp_enqueue_scripts', 'FoundationPress_scripts' );
 
-?>?>
+?>
