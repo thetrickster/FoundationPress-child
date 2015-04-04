@@ -51,4 +51,3 @@
 </header>
 
 <section class="container" role="document">
-  <div class="row">
