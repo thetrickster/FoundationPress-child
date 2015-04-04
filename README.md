@@ -1,5 +1,7 @@
 # FoundationPress Child Theme
 
+<blockquote>This project is **not tested** with the latest Foundation Press theme and is need of collaborators / maintainers to help keep this project up to date with the parent theme changes. Create an issue to request being added as a collaborator.</blockquote>
+
 This is a Wordpress child theme for the parent theme [FoundationPress](https://github.com/olefredrik/FoundationPress) by `olfredrik`.  This theme follows the same conventions and allows you to use Grunt and Bower to control and update dependencies and watch for your SASS changes. 
 
 The purpose of the Foundation Press is that it should only contain the most essential, with no need to peel away unnecessary features. If you're looking for a starter theme with built-in shortcode plugins, fancypancy portfolio templates or whatnot, I'm afraid you have to look elsewhere. 
